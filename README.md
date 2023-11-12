@@ -47,7 +47,4 @@ https://www.data.go.kr/data/15069932/fileData.do
 
 ## 시연 영상
 
-유튜브 링크 :
-유튜브 영상 설명란에 다음과 같은 규칙을 사용하여 타임스탬프 작성할 것
-
-1. 첫 타임스탬프가 00:00 으로 시작
+ https://youtu.be/a3t249jKmq8
